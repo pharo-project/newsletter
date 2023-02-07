@@ -6,3 +6,16 @@ Pharo Website source now on GitHub
 	
 Pharo on Mastodon
 	https://www.pharo.org/news/ANNPharoMastodon.html
+	
+	
+TinyBootstrap: Bootstrapper for Tiny Smalltalk images using Pharo. https://github.com/ErikOnBike/TinyBootstrap
+
+
+ CodeParadise runs on P10 (and P11). CodeParadise is a Framework for developing web applications in Smalltalk using WebComponents https://github.com/ErikOnBike/CodeParadise
+ 
+ Polyphemus: Ease Virtual Machine Level Tooling with Language Level Ordinary Pointers
+ From: <https://www.youtube.com/watch?v=-phxX8ia630>
+ 
+ 
+ Pharo Install - A CLI tool for installing Pharo Smalltalk packages
+ From: <https://github.com/hernanmd/pi>
