@@ -19,3 +19,6 @@ TinyBootstrap: Bootstrapper for Tiny Smalltalk images using Pharo. https://githu
  
  Pharo Install - A CLI tool for installing Pharo Smalltalk packages
  From: <https://github.com/hernanmd/pi>
+ 
+ ba-st/Bell: An observability library written in Smalltalk
+https://github.com/ba-st/Bell
