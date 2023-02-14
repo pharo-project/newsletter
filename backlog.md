@@ -22,3 +22,11 @@ TinyBootstrap: Bootstrapper for Tiny Smalltalk images using Pharo. https://githu
  
  ba-st/Bell: An observability library written in Smalltalk
 https://github.com/ba-st/Bell
+
+ESUG
+
+ESUG 2022  
+ https://www.youtube.com/playlist?list=PLJ5nSnWzQXi_7LGwiSa-8VwYXELwFQLBt
+ 
+ ShowUs
+  https://www.youtube.com/playlist?list=PLJ5nSnWzQXi-QLQViXAR41B0KdsSb4-nq
