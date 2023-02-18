@@ -32,3 +32,6 @@ ESUG 2022
   https://www.youtube.com/playlist?list=PLJ5nSnWzQXi-QLQViXAR41B0KdsSb4-nq
 
 https://thepharo.dev/2023/02/12/sentiment-analysis-in-pharo-using-a-real-data-set/
+
+How to Create a Pharo Smalltalk Plugin
+blog.sebastiansastre.co/article/how-to-create-a-pharo-smalltalk-plugin
