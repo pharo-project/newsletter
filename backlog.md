@@ -35,3 +35,5 @@ https://thepharo.dev/2023/02/12/sentiment-analysis-in-pharo-using-a-real-data-se
 
 How to Create a Pharo Smalltalk Plugin
 blog.sebastiansastre.co/article/how-to-create-a-pharo-smalltalk-plugin
+
+https://github.com/grpistoia/Mathemagics
