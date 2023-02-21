@@ -37,3 +37,11 @@ How to Create a Pharo Smalltalk Plugin
 blog.sebastiansastre.co/article/how-to-create-a-pharo-smalltalk-plugin
 
 https://github.com/grpistoia/Mathemagics
+
+
+EiichiroIto/NovaStelo: Block-style programming environment for multi agent system, based on MIT Scratch.
+https://github.com/EiichiroIto/NovaStelo
+
+
+jordanmontt/illimani-memory-profiler: A Memory Profiler for Pharo Smalltalk
+<https://github.com/jordanmontt/illimani-memory-profiler>
