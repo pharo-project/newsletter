@@ -45,3 +45,6 @@ https://github.com/EiichiroIto/NovaStelo
 
 jordanmontt/illimani-memory-profiler: A Memory Profiler for Pharo Smalltalk
 <https://github.com/jordanmontt/illimani-memory-profiler>
+
+ Cormas Telegram Bot - YouTube
+From: <https://www.youtube.com/watch?v=DRIRMZyDGSE>
