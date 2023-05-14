@@ -24,6 +24,9 @@ A simple Telegram bot that allows users to control Cormas simulation with their 
 #### Pharo from Emacs
 - https://revival.sh/shampoo/
 
+#### Bell: An observability library written in Smalltalk https://t.co/0lt1lwRUod
+
+
 #### Gameye for Pharo
 GAMEYE.app collection mobile App model and tools for Pharo.
 - https://github.com/labordep/PharoGameye
@@ -73,6 +76,11 @@ P11 seems to have some issues sometimes with restarting the image. Have not foun
 #### Ethnologue access from Pharo
 - https://github.com/hernanmd/ethnologue
 
+####
+Molecule is a component oriented framework developed by Thalese
+https://t.co/U9fBKhnlaV
+
+
 #### Shield io from Pharo
 
 I’d like to share a new Spec app for building badges made with Pharo 10. It is based on the Shields.io badge service provider. Select the badges you want, complete the required variables, and get your badge(s). You can also save and load commonly used variables, so it may help a bit to automate presenting your project’s README. 
@@ -97,6 +105,13 @@ Add SCRAM-SHA-256 authentication method (sponsored by Schmidt GmbH) Improve pars
 
 Tx sven and your sponsor!
 
+#### 
+-  FFICallBrowser - a tool to query FFI calls
+https://t.co/Zd3jshlJKA
+
+####
+PatternBuffer is a @pharoproject@twitter.com client for querying RDF databases:
+https://t.co/TBoybnuNqY
 
 ### Bloc updates
 	- https://sympa.inria.fr/sympa/info/lse-openbloc
@@ -131,6 +146,8 @@ Blog Posts
 - Released
 	Pharo VM 10.0.0 release logs
 		https://pharoweekly.wordpress.com/2023/03/01/ann-pharo-vm-release-v10-0-0/
+
+
 
 Documentation
 
