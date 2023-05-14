@@ -1,17 +1,125 @@
+### Community
 
 
+#### Seaside 3.5.0
+- https://github.com/SeasideSt/Seaside/releases/tag/v3.5.0
 
+#### Nova Stelo
 NovaStelo is a block-style programming environment for multi agent system
 - https://github.com/EiichiroIto/NovaStelo
 
+#### Gratch
 Block-style programming environment for tackling graph structure and algorithm
 - https://github.com/EiichiroIto/Gratch
 
-Cormas: A simple Telegram bot that allows users to control Cormas simulation with their phones
+#### Cormas: 
+A simple Telegram bot that allows users to control Cormas simulation with their phones
 - https://www.youtube.com/watch?v=DRIRMZyDGSE
 
-Pharo from Emacs
+#### Pharo from Emacs
 - https://revival.sh/shampoo/
 
+#### Gameye for Pharo
+GAMEYE.app collection mobile App model and tools for Pharo.
+- https://github.com/labordep/PharoGameye
+
+#### Pharo Netatmo API implementation for Legrand Netatmo products.
+Supported products : Weather station products / Healthy HomeCoach / Aircare product
+- https://github.com/labordep/PharoNetatmoAPI
+
+#### - Bytepair encoding 
+Just to announce a first implementation of BytePairEncoding (a king of subword identification and text compression for Pharo). More precisely: it is a Subword-based tokenization algorithm.
+ - https://github.com/Ducasse/BytePairEncoder/
+
+#### Memory Profiler
+- https://github.com/jordanmontt/illimani-memory-profiler
+
+#### Neo Networking 
+This package contains a small framework to set up TCP or UDP network servers/services. By subclassing and overwriting just a couple of methods you get a working server for a specific protocol.
+- https://github.com/svenvc/NeoNetworking
+
+#### Accent transformers
+- https://github.com/JanBliznicenko/accent-transformer
+
+#### SnapDump 
+is a software for pharo to create and manage runtime snapshots. 
+- https://github.com/zweidenker/SnapDump
+
+#### Pharo tiny images
+
+I added a ‘dynamic’ image to the TinyBootstrap repo. It is a tiny image containing a pre-installed code loader. This code loader allows you to load additional classes and methods and (optionally) save this in the image. Code (in the form of a class method) can be executed from the command line. Once the image has the required content and functions as expected, it can be ‘fused’ in which case the code loader is removed from the image and only the defined functionality remains. To allow code to be installed from a regular Pharo 10 image, a small TinyTools repo is available which allows generation of code files. It also contains a small ‘Inspector’ class which simply prints out all classes (and optionally methods) which are present in the image. Installing this class is explained in the TinyTools readme.
+
+The encoder/decoder combi used is an adapted version of the encoder/decoder in CodeParadise which are used to send code and objects between browser and application server. 
+
+Have fun Smalltalking to tiny images! 
+- https://github.com/ErikOnBike/TinyTools
+- https://github.com/ErikOnBike/TinyBootstrap/blob/main/README.md#dynamic-image
+
+#### CODEPARADISE ON PHARO11
+
+Hi all. A small holiday present for anyone interested: https://github.com/ErikOnBike/CodeParadise now runs on P10 (and P11 with some care)! If you are using it on P8, please unload the CP-ClientEnvironment and reload it using the “pharo8” branch: 
+
+Metacello new
+  repository: 'github://ErikOnBike/CP-ClientEnvironment:pharo8';
+  baseline: 'CodeParadise';
+  load.
+P11 seems to have some issues sometimes with restarting the image. Have not found the exact cause. Will look into this.
+
+#### Ethnologue access from Pharo
+- https://github.com/hernanmd/ethnologue
+
+#### Shield io from Pharo
+
+I’d like to share a new Spec app for building badges made with Pharo 10. It is based on the Shields.io badge service provider. Select the badges you want, complete the required variables, and get your badge(s). You can also save and load commonly used variables, so it may help a bit to automate presenting your project’s README. 
+
+https://github.com/hernanmd/shield-badges
+
+#### PHARORAYLIB A BINDING FOR RAYLIB GAME LIBRARY
+	- https://github.com/Zenchess/pharoRaylib
+
+#### FIRMATA EXTENSION FOR PHARO
+Adding support for i2c-enabled LCD panels.
+- https://github.com/joao-pedro-braz/Firmata-LiquidCrystalI2C
 
 
+### Bloc updates
+	- https://sympa.inria.fr/sympa/info/lse-openbloc
+	add youtube ESUG presentation
+	- https://pharoweekly.wordpress.com/2022/11/14/bloc-update/
+	https://pharoweekly.wordpress.com/2022/10/25/bloc-update-harfbuzz/
+
+
+Blog Posts
+	- https://medium.com/@dkgoutham1806/graph-algorithms-in-pharo-7d12af0be060
+	- https://chinmaya.hashnode.dev/my-pharo-journey-making-a-simple-to-do-list-with-spec2
+	- https://blog.sebastiansastre.co/article/how-to-create-a-pharo-smalltalk-plugin
+	Roassal show: https://pharoweekly.wordpress.com/2022/08/25/building-analyses-with-roassal-a-football-example/
+
+	
+### Pharo 
+
+- https://mastodon.social/@pharoproject	
+
+- Phep https://github.com/pharo-project/pheps/pull/9
+
+- Mooc 
+	- 
+	
+	compiler blog post
+	- thepharo.dev/2023/04/03/undeclared-variable-reparation-an-epic-journey-in-a-compiler-partiii/
+	- thepharo.dev/2023/03/20/undeclared-variable-reparation-an-epic-journey-in-a-compiler/
+	- thepharo.dev/2023/03/27/undeclared-variable-reparation-an-epic-journey-in-a-compiler-part-ii/
+
+- Released
+	Pharo VM 10.0.0 release logs
+		https://pharoweekly.wordpress.com/2023/03/01/ann-pharo-vm-release-v10-0-0/
+
+Documentation
+
+Exercism promoting Pharo
+	RT @TorstenAstares@twitter.com @pharoproject@twitter.com being featured in @exercism_io@twitter.com Mind Shifting May
+	Introducing Pharo: https://t.co/kkWZ6dKnqD
+	Unique features of Pharo: https://t.co/D1mmJxEDDo
+	
+Google summer of code selected Pharo
+	https://gsoc.pharo.org
