@@ -1,57 +1,67 @@
 ### Community
 
-
 #### Seaside 3.5.0
-- https://github.com/SeasideSt/Seaside/releases/tag/v3.5.0
+[https://github.com/SeasideSt/Seaside/releases/tag/v3.5.0]()
+
 
 #### New version of Pillar 
 We are happy to announce a new release of pillar that supports the use of microdown as format.
-Check http://github.com/pillar-markup/pillar
+Check [http://github.com/pillar-markup/pillar](http://github.com/pillar-markup/pillar)
+
+
+#### DiscOrDance
+DiscOrDance and Vizor are now publicly available under MIT License!
+They support the analysis of discord forum.
+
+You can find them on GitHub under USIREVEAL 
+- [https://github.com/USIREVEAL/DiscOrDance]() and 
+- [https://github.com/USIREVEAL/Vizor]().
 
 
 #### Nova Stelo
 NovaStelo is a block-style programming environment for multi agent system
-- https://github.com/EiichiroIto/NovaStelo
+[https://github.com/EiichiroIto/NovaStelo]()
 
 #### Gratch
 Block-style programming environment for tackling graph structure and algorithm
-- https://github.com/EiichiroIto/Gratch
+[https://github.com/EiichiroIto/Gratch]()
 
 #### Cormas: 
 A simple Telegram bot that allows users to control Cormas simulation with their phones
-- https://www.youtube.com/watch?v=DRIRMZyDGSE
+[https://www.youtube.com/watch?v=DRIRMZyDGSE]()
 
 #### Pharo from Emacs
-- https://revival.sh/shampoo/
+[https://revival.sh/shampoo/]()
 
-#### Bell: An observability library written in Smalltalk https://t.co/0lt1lwRUod
+#### Bell: An observability library written in Smalltalk 
+[https://t.co/0lt1lwRUod]()
 
 
 #### Gameye for Pharo
 GAMEYE.app collection mobile App model and tools for Pharo.
-- https://github.com/labordep/PharoGameye
+[https://github.com/labordep/PharoGameye]()
 
 #### Pharo Netatmo API implementation for Legrand Netatmo products.
 Supported products : Weather station products / Healthy HomeCoach / Aircare product
-- https://github.com/labordep/PharoNetatmoAPI
+[https://github.com/labordep/PharoNetatmoAPI]()
 
 #### - Bytepair encoding 
 Just to announce a first implementation of BytePairEncoding (a king of subword identification and text compression for Pharo). More precisely: it is a Subword-based tokenization algorithm.
- - https://github.com/Ducasse/BytePairEncoder/
+[https://github.com/Ducasse/BytePairEncoder/]()
 
 #### Memory Profiler
-- https://github.com/jordanmontt/illimani-memory-profiler
+[https://github.com/jordanmontt/illimani-memory-profiler]()
 
 #### Neo Networking 
 This package contains a small framework to set up TCP or UDP network servers/services. By subclassing and overwriting just a couple of methods you get a working server for a specific protocol.
-- https://github.com/svenvc/NeoNetworking
+[https://github.com/svenvc/NeoNetworking]()
 
 #### Accent transformers
-- https://github.com/JanBliznicenko/accent-transformer
+[https://github.com/JanBliznicenko/accent-transformer]()
 
 #### SnapDump 
 is a software for pharo to create and manage runtime snapshots. 
-- https://github.com/zweidenker/SnapDump
+[https://github.com/zweidenker/SnapDump]()
 
 #### Pharo tiny images
 
@@ -60,8 +70,9 @@ I added a ‘dynamic’ image to the TinyBootstrap repo. It is a tiny image cont
 The encoder/decoder combi used is an adapted version of the encoder/decoder in CodeParadise which are used to send code and objects between browser and application server. 
 
 Have fun Smalltalking to tiny images! 
-- https://github.com/ErikOnBike/TinyTools
-- https://github.com/ErikOnBike/TinyBootstrap/blob/main/README.md#dynamic-image
+
+- [https://github.com/ErikOnBike/TinyTools]()
+- [https://github.com/ErikOnBike/TinyBootstrap/blob/main/README.md#dynamic-image]()
 
 #### CODEPARADISE ON PHARO11
 
@@ -105,13 +116,13 @@ Add SCRAM-SHA-256 authentication method (sponsored by Schmidt GmbH) Improve pars
 
 Tx sven and your sponsor!
 
-#### 
+#### FFI analysis
 -  FFICallBrowser - a tool to query FFI calls
-https://t.co/Zd3jshlJKA
+[https://t.co/Zd3jshlJKA]()
 
 ####
 PatternBuffer is a @pharoproject@twitter.com client for querying RDF databases:
-https://t.co/TBoybnuNqY
+[https://t.co/TBoybnuNqY]()
 
 ### Bloc updates
 	- https://sympa.inria.fr/sympa/info/lse-openbloc
@@ -120,59 +131,56 @@ https://t.co/TBoybnuNqY
 	https://pharoweekly.wordpress.com/2022/10/25/bloc-update-harfbuzz/
 
 
-Blog Posts
-	- https://medium.com/@dkgoutham1806/graph-algorithms-in-pharo-7d12af0be060
-	- https://chinmaya.hashnode.dev/my-pharo-journey-making-a-simple-to-do-list-with-spec2
-	- https://blog.sebastiansastre.co/article/how-to-create-a-pharo-smalltalk-plugin
-	Roassal show: https://pharoweekly.wordpress.com/2022/08/25/building-analyses-with-roassal-a-football-example/
+### Blog Posts
+- [https://medium.com/@dkgoutham1806/graph-algorithms-in-pharo-7d12af0be060]()
+- [https://chinmaya.hashnode.dev/my-pharo-journey-making-a-simple-to-do-list-with-spec2]()
+- [https://blog.sebastiansastre.co/article/how-to-create-a-pharo-smalltalk-plugin}()
+- Roassal show: [https://pharoweekly.wordpress.com/2022/08/25/building-analyses-with-roassal-a-football-example/]()
 
 	
 ### Pharo 
 
-- https://mastodon.social/@pharoproject	
+#### Social
 
-- Phep https://github.com/pharo-project/pheps/pull/9
-
-- Mooc 
-	- 
+- [https://mastodon.social/@pharoproject]()
+- Google summer of code selected Pharo [https://gsoc.pharo.org]()
 	
-	compiler blog post
-	- thepharo.dev/2023/04/03/undeclared-variable-reparation-an-epic-journey-in-a-compiler-partiii/
-	- thepharo.dev/2023/03/20/undeclared-variable-reparation-an-epic-journey-in-a-compiler/
-	- thepharo.dev/2023/03/27/undeclared-variable-reparation-an-epic-journey-in-a-compiler-part-ii/
-	- https://thepharo.dev/2021/04/28/advanced-stepping-and-custom-debugging-actions-in-the-new-pharo-debugger/
-	- https://thepharo.dev/2021/04/02/debugger-extensions-in-pharo-9-0/
+#### Pharo improvements
+- Phep [https://github.com/pharo-project/pheps/pull/9]()
+
+#### Released
+Pharo VM 10.0.0 release logs
+[https://pharoweekly.wordpress.com/2023/03/01/ann-pharo-vm-release-v10-0-0/]()
+
+### Documentation
+
+
+#### Mooc 
+
+- [http://advanced-design-mooc.pharo.org]()
 	
-- Released
-	Pharo VM 10.0.0 release logs
-		https://pharoweekly.wordpress.com/2023/03/01/ann-pharo-vm-release-v10-0-0/
-
-
-
-Documentation
-
+	
+#### Blog post
+- [thepharo.dev/2023/04/03/undeclared-variable-reparation-an-epic-journey-in-a-compiler-partiii/]()
+- [thepharo.dev/2023/03/20/undeclared-variable-reparation-an-epic-journey-in-a-compiler/]()
+- [thepharo.dev/2023/03/27/undeclared-variable-reparation-an-epic-journey-in-a-compiler-part-ii/]()
+- [https://thepharo.dev/2021/04/28/advanced-stepping-and-custom-debugging-actions-in-the-new-pharo-debugger/]()
+- [https://thepharo.dev/2021/04/02/debugger-extensions-in-pharo-9-0/]()
+	
 #### Pharo by example 9
 The new version of Pharo by Example is now available for print.
-	- https://www.bod.fr/librairie/pharo-9-by-example-stephane-ducasse-9782322394104
-
-Remember that there is also Pharo with Style
-
-	- https://www.bod.fr/librairie/pharo-with-style-stephane-ducasse-9782322182015
-
-	You can find all these books also on other platforms such as amazon, decitre.fr
-
-	- https://www.decitre.fr/livre-pod/pharo-with-style-9782322182015.html
-	- https://www.decitre.fr/livre-pod/pharo-9-by-example-9782322394104.html
+- [https://www.bod.fr/librairie/pharo-9-by-example-stephane-ducasse-9782322394104]()
+- [https://www.decitre.fr/livre-pod/pharo-9-by-example-9782322394104.html]()
 
 #### Pharo with Style (new version) is now available as physical book. 
 For example
-	https://www.decitre.fr/livre-pod/pharo-with-style-9782322182015.html
-	https://www.bod.fr/librairie/pharo-with-style-stephane-ducasse-9782322182015
 
-Exercism promoting Pharo
-	RT @TorstenAstares@twitter.com @pharoproject@twitter.com being featured in @exercism_io@twitter.com Mind Shifting May
-	Introducing Pharo: https://t.co/kkWZ6dKnqD
-	Unique features of Pharo: https://t.co/D1mmJxEDDo
+- [https://www.decitre.fr/livre-pod/pharo-with-style-9782322182015.html]()
+- [https://www.bod.fr/librairie/pharo-with-style-stephane-ducasse-9782322182015]()
+
+#### Exercism promoting Pharo
+
+- Introducing Pharo: [https://t.co/kkWZ6dKnqD]()
+- Unique features of Pharo: [https://t.co/D1mmJxEDDo]()
 	
-Google summer of code selected Pharo
-	https://gsoc.pharo.org
+
