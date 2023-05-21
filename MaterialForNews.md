@@ -1,13 +1,16 @@
-### Community
+## Community
 
-#### Seaside 3.5.0
+### Seaside 3.5.0
 [https://github.com/SeasideSt/Seaside/releases/tag/v3.5.0]()
 
 
-#### New version of Pillar 
+### New version of Pillar 
 We are happy to announce a new release of pillar that supports the use of microdown as format.
 Check [http://github.com/pillar-markup/pillar](http://github.com/pillar-markup/pillar)
 
+#### Iconography
+Import, manage, get and store/cache icons into Pharo from standard icons libraries.
+[https://github.com/OpenSmock/Iconography]()
 
 #### DiscOrDance
 DiscOrDance and Vizor are now publicly available under MIT License!
@@ -183,4 +186,10 @@ For example
 - Introducing Pharo: [https://t.co/kkWZ6dKnqD]()
 - Unique features of Pharo: [https://t.co/D1mmJxEDDo]()
 	
+New release for Exercism Pharo track, details here: [https://github.com/exercism/pharo-smalltalk/releases/tag/v0.23.5]()
+GitHub
+- Release Pharo 11 support, Test Runner for Pharo track · exercism/ph...
+- added support for Pharo versions 9 to 11
+- added Test Runner support for Pharo track
+- several bug fixes and smaller enhancements (Github workflow, test result information, exercise fixes,..)
 
