@@ -50,3 +50,5 @@ jordanmontt/illimani-memory-profiler: A Memory Profiler for Pharo Smalltalk
 
  Cormas Telegram Bot - YouTube
 From: <https://www.youtube.com/watch?v=DRIRMZyDGSE>
+
+https://github.com/OpenSmock/Iconography
