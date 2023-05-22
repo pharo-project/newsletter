@@ -39,6 +39,8 @@ A simple Telegram bot that allows users to control Cormas simulation with their 
 #### Bell: An observability library written in Smalltalk 
 [https://t.co/0lt1lwRUod]()
 
+#### Bindings for raylib
+[https://github.com/Zenchess/pharoRaylib]()
 
 #### Gameye for Pharo
 GAMEYE.app collection mobile App model and tools for Pharo.
