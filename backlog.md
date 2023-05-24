@@ -52,3 +52,5 @@ jordanmontt/illimani-memory-profiler: A Memory Profiler for Pharo Smalltalk
 From: <https://www.youtube.com/watch?v=DRIRMZyDGSE>
 
 https://github.com/OpenSmock/Iconography
+
+https://github.com/brackendev/OpenAI-Pharo
