@@ -159,6 +159,8 @@ Pharo VM 10.0.0 release logs
 
 ### Documentation
 
+#### Open Documentation in Japanese
+[https://pharo-open-documentation-jp.github.io]()
 
 #### Mooc 
 
