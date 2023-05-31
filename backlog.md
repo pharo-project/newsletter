@@ -54,3 +54,5 @@ From: <https://www.youtube.com/watch?v=DRIRMZyDGSE>
 https://github.com/OpenSmock/Iconography
 
 https://github.com/brackendev/OpenAI-Pharo
+
+Japanse WIKI From: <https://pharo-open-documentation.github.io/pharo-wiki-jp/>
