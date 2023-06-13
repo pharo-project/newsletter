@@ -58,3 +58,7 @@ https://github.com/brackendev/OpenAI-Pharo
 Japanse WIKI From: <https://pharo-open-documentation.github.io/pharo-wiki-jp/>
 
 https://www.pharo.org/success/Groom.html
+
+https://www.youtube.com/watch?v=pocSL1XZy4E
+
+<https://github.com/mumez/RediStick/tree/master>
