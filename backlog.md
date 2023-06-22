@@ -62,3 +62,21 @@ https://www.pharo.org/success/Groom.html
 https://www.youtube.com/watch?v=pocSL1XZy4E
 
 <https://github.com/mumez/RediStick/tree/master>
+
+
+[ANN] CBOR for Pharo
+
+https://github.com/svenvc/CBOR
+Concise Binary Object Representation (CBOR) is a binary data serialization format. CBOR is based on the JSON data model: a number of primitive types (integers, floats, booleans, strings and null), lists and maps (which represent objects or structures). Being binary, CBOR is more efficient than JSON, which is text based. CBOR also supports binary data and optional extensions (called tags). This implementation has native support for string and epoch based timestamps (DateAndTime) and big integers (Integer).
+
+
+How to use Moose 10 for software analysis - YouTube
+From: <https://www.youtube.com/watch?v=2ILbR5ZrSm8>
+
+
+in newsletter Creating Real-Time Datasets in Pharo: Fetching YouTube Statistics | by Joshua Dias Barreto | LatinXinAI | Jun, 2023 | Medium
+From: <https://medium.com/latinxinai/creating-real-time-datasets-in-pharo-fetching-youtube-statistics-43b034133516>
+
+First implementation of the Zettelkasten application  From: <https://www.youtube.com/watch?v=omKrz9stuOQ>
+
+From: <https://github.com/ErikOnBike/CodeParadise-Zettelkasten>
