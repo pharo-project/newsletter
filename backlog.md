@@ -80,3 +80,7 @@ From: <https://medium.com/latinxinai/creating-real-time-datasets-in-pharo-fetchi
 First implementation of the Zettelkasten application  From: <https://www.youtube.com/watch?v=omKrz9stuOQ>
 
 From: <https://github.com/ErikOnBike/CodeParadise-Zettelkasten>
+
+
+Backlog: Things we could add to the next newsletter
+
