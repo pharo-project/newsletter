@@ -82,5 +82,8 @@ First implementation of the Zettelkasten application  From: <https://www.youtube
 From: <https://github.com/ErikOnBike/CodeParadise-Zettelkasten>
 
 
-Backlog: Things we could add to the next newsletter
+
+https://github.com/OpenSmock/Pyramid>
+
+https://github.com/astares/Pharo-Binge
 
