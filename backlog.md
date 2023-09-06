@@ -87,3 +87,9 @@ https://github.com/OpenSmock/Pyramid>
 
 https://github.com/astares/Pharo-Binge
 
+ https://github.com/labordep/PharoGameye
+
+
+ Inspector
+
+ From: <https://github.com/pharo-open-documentation/pharo-wiki/blob/master/General/Inspector.md>
