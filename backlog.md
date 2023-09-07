@@ -93,3 +93,7 @@ https://github.com/astares/Pharo-Binge
  Inspector
 
  From: <https://github.com/pharo-open-documentation/pharo-wiki/blob/master/General/Inspector.md>
+
+
+ Writing benchmarks with SMark
+From: <https://thepharo.dev/2023/09/07/writing-benchmarks-with-smark/>
