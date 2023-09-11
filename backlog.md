@@ -97,3 +97,5 @@ https://github.com/astares/Pharo-Binge
 
  Writing benchmarks with SMark
 From: <https://thepharo.dev/2023/09/07/writing-benchmarks-with-smark/>
+
+https://github.com/Mr-Dispatch/pharo-cozodb
