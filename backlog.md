@@ -99,3 +99,6 @@ https://github.com/astares/Pharo-Binge
 From: <https://thepharo.dev/2023/09/07/writing-benchmarks-with-smark/>
 
 https://github.com/Mr-Dispatch/pharo-cozodb
+
+
+SuccessStory: https://pharo.org/success/PLC3000.html
