@@ -104,4 +104,12 @@ From: <https://thepharo.dev/2023/09/07/writing-benchmarks-with-smark/>
 https://github.com/Mr-Dispatch/pharo-cozodb
 
 
-SuccessStory: https://pharo.org/success/PLC3000.html
+SuccessStory:
+- https://pharo.org/success/PLC3000.html
+- Le 25 septembre une sera pulbiée sur boeing: https://github.com/pharo-project/pharo-website/pull/51 (un lien pharo.org sera alors disponnible)
+
+
+
+Idée:
+- Présenter les alias dépréciés de classe ?
+- Présenter TonelV3 ?
