@@ -92,6 +92,8 @@ https://github.com/astares/Pharo-Binge
 
  https://github.com/labordep/PharoGameye
 
+Friendly UI Front-End to cflow in Pharo
+From: <https://github.com/hernanmd/cflow-ui>
 
  Inspector
 
@@ -113,3 +115,5 @@ SuccessStory:
 Idée:
 - Présenter les alias dépréciés de classe ?
 - Présenter TonelV3 ?
+
+
