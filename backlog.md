@@ -110,6 +110,19 @@ SuccessStory:
 
 
 
+Témoignage Summer School:
+
+==========
+Pharo Summer School was an extraordinary experience! I would recommend this summer school to everyone who wants to improve their OOP skills. The lectures were nicely prepared, and the speakers did a great job presenting Pharo. I've not only learned new things like Roassal visualization and building UI with Spec2, but also deepened my understanding of OOP. The advanced design lectures were especially interesting and captivating, with great examples. There were a lot of practical things that I learned and now use in my day-to-day work. Thanks to the Pharo Consortium for organizing this super cool event! Hope to see everyone next year! 
+
+Tonda Jirasek
+==========
+
+==========
+Thank you for the summer school! It exceeded my expectations in not only that I managed to learn the basics of Pharo and what I can use Pharo for, but also the summer school has changed the way I look at object oriented programming and has made me a better programmer!
+==========
+
+
 Idée:
 - Présenter les alias dépréciés de classe ?
 - Présenter TonelV3 ?
